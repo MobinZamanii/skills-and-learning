@@ -1,5 +1,19 @@
 # NumPy Learning Series
 
+## Installation
+
+Install NumPy using pip:
+
+```bash
+pip install numpy
+```
+
+Then import it in Python:
+
+```python
+import numpy as np
+```
+
 A practical NumPy learning series with clear explanations, examples, and exercises.
 
 ## Notebooks
