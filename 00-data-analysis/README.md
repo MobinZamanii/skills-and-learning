@@ -1,29 +1,13 @@
-# NumPy Learning Series
+# Python Data Science Learning
 
-## Installation
+A learning repository focused on the Python tools commonly used in **Data Science, Bioinformatics, and Machine Learning**.
 
-Install NumPy using pip:
+## Libraries
 
-```bash
-pip install numpy
-```
+* **NumPy** — Numerical computing
+* **Pandas** — Data analysis and manipulation
+* **Matplotlib** — Data visualization
 
-Then import it in Python:
+More libraries and topics will be added as the learning path progresses.
 
-```python
-import numpy as np
-```
-
-A practical NumPy learning series with clear explanations, examples, and exercises.
-
-## Notebooks
-
-* `01_NumPy_Arrays.ipynb` — NumPy fundamentals
-* `02_NumPy_Advanced.ipynb` — Advanced NumPy concepts
-
-Topics include **arrays, indexing, broadcasting, vectorization, linear algebra, normalization, and practical Machine Learning & Bioinformatics applications**.
-
-Part 2 is a continuation of Part 1.
-
-**More parts will be added to this series in the future.**
-
+ **This repository is continuously updated.**
