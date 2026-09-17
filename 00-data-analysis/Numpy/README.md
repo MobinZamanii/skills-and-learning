@@ -1,28 +1,28 @@
-# Matplotlib Learning Series
-
+# NumPy Learning Serie
 ## Installation
 
-Install Matplotlib using pip:
+Install NumPy using pip:
 
 ```bash
-pip install matplotlib
+pip install numpy
 ```
 
 Then import it in Python:
 
 ```python
-import matplotlib.pyplot as plt
+import numpy as np
 ```
 
-A practical Matplotlib learning series with clear explanations, examples, and exercises.
+A practical NumPy learning series with clear explanations, examples, and exercises.
 
 ## Notebooks
 
-* `01_Matplotlib_Basics.ipynb` — Matplotlib fundamentals
-* `02_Matplotlib_Advanced.ipynb` — Advanced Matplotlib concepts
+* `01_NumPy_Arrays.ipynb` — NumPy fundamentals
+* `02_NumPy_Advanced.ipynb` — Advanced NumPy concepts
 
-Topics include **line plots, scatter plots, bar charts, histograms, box plots, subplots, customization, annotations, statistical visualization, and practical Data Science & Bioinformatics applications**.
+Topics include **arrays, indexing, broadcasting, vectorization, linear algebra, normalization, and practical Machine Learning & Bioinformatics applications**.
 
 Part 2 is a continuation of Part 1.
 
 **More parts will be added to this series in the future.**
+
