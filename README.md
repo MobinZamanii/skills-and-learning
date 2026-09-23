@@ -1,5 +1,3 @@
-دقیقاً؛ برای README اصلی بهتره **کوتاه، تمیز و حرفه‌ای** باشه و جزئیات هر بخش داخل README همان پوشه‌ها قرار بگیرد.
-
 # Skills & Learning
 
 A continuously evolving repository documenting my learning journey in **Python, Data Science, Machine Learning, Deep Learning, Medical AI, and Bioinformatics**.
