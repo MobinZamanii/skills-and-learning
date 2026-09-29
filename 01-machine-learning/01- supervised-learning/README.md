@@ -1,5 +1,3 @@
-آره، برای README اصلی بهتره خیلی مینیمال باشه:
-
 # Supervised Learning Algorithms
 
 This section contains practical learning materials for **Supervised Machine Learning algorithms** using Python.
