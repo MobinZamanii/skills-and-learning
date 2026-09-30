@@ -19,15 +19,19 @@ pip install numpy pandas matplotlib seaborn scikit-learn mglearn
 * mglearn
 * Jupyter Notebook
 
-## Algorithms
+# Algorithms
 
 ### 1. K-Nearest Neighbors (KNN)
 
-Introduction and practical implementation of KNN classification and regression.
+Introduction and practical implementation of KNN for both classification and regression, including distance-based prediction, feature scaling, and model evaluation.
 
 ### 2. Linear Regression
 
-Introduction and practical implementation of Linear Regression, including visualization and model evaluation.
+Introduction and practical implementation of Linear Regression, including the least-squares approach, visualization, prediction, and model evaluation.
+
+### 3. Logistic Regression
+
+Introduction and practical implementation of Logistic Regression for binary classification, including probability estimation, decision thresholds, confusion matrix, Precision, Recall, F1-score, ROC-AUC, cross-validation, and hyperparameter tuning.
 
 More supervised learning algorithms will be added progressively.
 
