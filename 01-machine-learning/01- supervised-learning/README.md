@@ -33,5 +33,10 @@ Introduction and practical implementation of Linear Regression, including the le
 
 Introduction and practical implementation of Logistic Regression for binary classification, including probability estimation, decision thresholds, confusion matrix, Precision, Recall, F1-score, ROC-AUC, cross-validation, and hyperparameter tuning.
 
+### 4. Support Vector Machines (SVM)
+
+Introduction and practical implementation of Support Vector Machines for classification, covering hyperplanes, margins, support vectors, hinge loss, soft-margin optimization, kernel methods, feature scaling, model evaluation, cross-validation, and hyperparameter tuning.
+
+
 More supervised learning algorithms will be added progressively.
 
