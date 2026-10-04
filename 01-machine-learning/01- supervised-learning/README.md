@@ -37,6 +37,18 @@ Introduction and practical implementation of Logistic Regression for binary clas
 
 Introduction and practical implementation of Support Vector Machines for classification, covering hyperplanes, margins, support vectors, hinge loss, soft-margin optimization, kernel methods, feature scaling, model evaluation, cross-validation, and hyperparameter tuning.
 
+### 5. Naive Bayes
+
+Introduction and practical implementation of Naive Bayes for classification, covering Bayes’ theorem, conditional probability, the naive conditional-independence assumption, Gaussian/Multinomial/Bernoulli Naive Bayes, probability estimation, feature distributions, model evaluation, cross-validation, and hyperparameter tuning.
+
+### 6. Decision Trees
+
+Introduction and practical implementation of Decision Trees for classification and regression, covering tree structure, recursive partitioning, Gini impurity, entropy, information gain, split selection, decision boundaries, overfitting, pruning, feature importance, model evaluation, cross-validation, and hyperparameter tuning.
+
+### 7. Random Forest
+
+Introduction and practical implementation of Random Forest for classification and regression, covering ensemble learning, bootstrap sampling, bagging, random feature selection, decision-tree aggregation, majority voting, variance reduction, feature importance, out-of-bag evaluation, model evaluation, cross-validation, and hyperparameter tuning.
+
 
 More supervised learning algorithms will be added progressively.
 
