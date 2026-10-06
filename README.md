@@ -4,15 +4,6 @@ A continuously evolving repository documenting my learning journey in **Python, 
 
 The goal is to learn through practice, build projects, document progress, and continuously improve my technical skills.
 
-## Repository Structure
-
-* `00-data-analysis` — Data Analysis
-* `01-supervised-learning` — Supervised Learning
-* `02-unsupervised-learning` — Unsupervised Learning
-* `03-deep-learning` — Deep Learning
-* `04-medical-ai` — Medical AI
-* `05-bioinformatics` — Bioinformatics
-
 ## Learning Approach
 
 **Learn → Build → Document → Improve**
