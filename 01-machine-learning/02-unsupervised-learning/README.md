@@ -48,8 +48,9 @@ Introduction to Principal Component Analysis for dimensionality reduction, cover
 
 Introduction and practical implementation of t-SNE for nonlinear dimensionality reduction and visualization, covering pairwise similarities, high-dimensional and low-dimensional distributions, perplexity, optimization, visualization, parameter selection, and limitations.
 
-### 8. UMAP
+### 8. Mean Shift
 
-Introduction and practical implementation of UMAP for nonlinear dimensionality reduction and visualization, covering manifold learning, neighborhood graphs, low-dimensional embedding, hyperparameters, visualization, comparison with t-SNE, and practical applications.
+Introduction and practical implementation of Mean Shift Clustering, covering kernel density estimation (KDE), density modes, Gaussian kernels, bandwidth selection, iterative mean shift updates, mode seeking, cluster center identification, automatic cluster number estimation, feature scaling, bandwidth optimization, implementation from scratch, Scikit-learn implementation, cluster visualization, model evaluation, practical applications, and limitations.
+
 
 More unsupervised learning algorithms will be added progressively.
