@@ -52,5 +52,10 @@ Introduction and practical implementation of t-SNE for nonlinear dimensionality 
 
 Introduction and practical implementation of Mean Shift Clustering, covering kernel density estimation (KDE), density modes, Gaussian kernels, bandwidth selection, iterative mean shift updates, mode seeking, cluster center identification, automatic cluster number estimation, feature scaling, bandwidth optimization, implementation from scratch, Scikit-learn implementation, cluster visualization, model evaluation, practical applications, and limitations.
 
+### 9. Affinity Propagation
+
+Introduction and practical implementation of Affinity Propagation Clustering, covering similarity matrices, exemplar-based clustering, responsibility and availability messages, iterative message passing, damping, preference values, exemplar selection, convergence criteria, parameter tuning, implementation from scratch, Scikit-learn implementation, cluster visualization, model evaluation, comparison with K-Means and DBSCAN, practical applications, and limitations.
+
+More unsupervised learning algorithms will be added progressively.
 
 More unsupervised learning algorithms will be added progressively.
