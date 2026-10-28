@@ -13,6 +13,9 @@ A practical learning series covering deep learning fundamentals, neural networks
 | 05 | Training and Optimization |
 | 06 | Convolutional Neural Networks (CNNs) |
 | 07 | Transfer Learning and Fine-Tuning |
+| 08 | Model Evaluation, Generalization, and Error Analysis |
+| 09 | Hyperparameter Tuning and Experiment Tracking |
+| 10 | Model Interpretability and Explainable AI (XAI) |
 
 ## Technologies
 
