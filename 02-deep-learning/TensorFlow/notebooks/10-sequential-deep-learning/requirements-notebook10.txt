@@ -1,0 +1,22 @@
+# Notebook 10 dependency alias for the integrated Deep Learning with TensorFlow course.
+# This package list is intentionally aligned with the repository-root requirements.txt.
+# From the repository root, prefer: python -m pip install -r requirements.txt
+
+# Deep Learning with TensorFlow — shared course environment
+# Reference stack: Python 3.11, TensorFlow 2.21.0, Keras 3.15.1
+# Check https://www.tensorflow.org/install/pip for current OS/Python compatibility.
+
+tensorflow==2.21.0
+keras==3.15.1
+
+numpy>=1.26,<2.2
+pandas>=2.2,<3.0
+matplotlib>=3.8,<4.0
+scikit-learn>=1.5,<2.0
+Pillow>=10,<13
+scipy>=1.13,<2.0
+
+jupyterlab>=4.0,<5.0
+ipykernel>=6.29,<7.0
+nbformat>=5.9,<6.0
+tensorboard>=2.21,<3.0

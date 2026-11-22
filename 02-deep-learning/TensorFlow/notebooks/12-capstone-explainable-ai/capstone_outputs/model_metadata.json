@@ -1,0 +1,20 @@
+{
+  "project": "synthetic_cell_morphology_classification",
+  "class_names": [
+    "round",
+    "elongated"
+  ],
+  "positive_class": "elongated",
+  "input_shape": [
+    96,
+    96,
+    3
+  ],
+  "selected_model": "MobileNetV2 pretrained",
+  "selection_metric": "validation_selection_roc_auc",
+  "temperature_scaling_temperature": 0.3910338351436306,
+  "pretrained_imagenet_weights_loaded": true,
+  "random_seed": 42,
+  "synthetic_data_only": true,
+  "not_for_diagnostic_use": true
+}
