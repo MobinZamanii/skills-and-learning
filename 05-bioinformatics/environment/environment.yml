@@ -1,0 +1,19 @@
+name: bioinformatics-learning
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - biopython
+  - requests
+  - scikit-learn
+  - statsmodels
+  - networkx

@@ -1,0 +1,14 @@
+# Core environment. Pin and test versions before publishing a release.
+jupyterlab
+notebook
+ipykernel
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+biopython
+requests
+scikit-learn
+statsmodels
+networkx

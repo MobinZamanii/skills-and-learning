@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Bioinformatics: From Biological Data to Computational Discovery"
+type: software
+authors:
+  - family-names: "Zamani"
+    given-names: "Mobin"
+version: 0.1.0
+date-released: 2026-11-28
+license: MIT
+abstract: "A Python-centered, research-oriented educational repository for bioinformatics and computational biology."
